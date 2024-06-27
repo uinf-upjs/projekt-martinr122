@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CalendarWhite" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="CalendarGrey" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#D8D8D8</item>
+    </style>
+    <style name="CalendarDarkGrey" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#3E3E3E</item>
+    </style>
+    <style name="CalendarBlack" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#000000</item>
+    </style>
+</resources>
